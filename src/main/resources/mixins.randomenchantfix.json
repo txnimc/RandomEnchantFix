@@ -1,9 +1,10 @@
 {
   "required": true,
-  "package": "toni.examplemod.mixins",
+  "package": "toni.randomenchantfix.mixins",
   "compatibilityLevel": "JAVA_17",
   "minVersion": "0.8",
   "mixins": [
+    "EnchantmentHelperMixin"
   ],
   "injectors": {
     "defaultRequire": 1
